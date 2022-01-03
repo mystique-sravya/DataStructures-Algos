@@ -7,6 +7,8 @@ THIS REPOSITORY CONTAIN DATASTRUCTURES ALGORITHMS IN SIMPLE WAY POSSIBLE
 >> LINKED LIST IMPLEMENTATION
 ---------------------------------------------------------------
 [binarytreeusinglinkedlist.pdf](https://github.com/mystique-sravya/DataStructures-Algos/files/7801552/binarytreeusinglinkedlist.pdf)
+
+
  OUTPUT:
  -----BINARY IMPLEMENTATION IN LINKE LIST-----
 1.inserting 2.search 3.inorder 4.preorder 5. postorder 6.exit
